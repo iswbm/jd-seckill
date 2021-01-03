@@ -1,12 +1,12 @@
 ## 0. 最新下载地址
 
-点击下载:https://wws.lanzous.com/iMmQ8jwxjng
+原项目无法下载了，最新脚本代码请点击这边下载:https://wws.lanzous.com/iMmQ8jwxjng
 
 ## 1. 环境搭建
 
 **第一步**
 
-把项目代码（https://wws.lanzous.com/iMmQ8jwxjng）下载到本地并解压。
+把项目代码（https://wws.lanzous.com/iMmQ8jwxjng） 下载到本地并解压。
 
 **第二步**
 
